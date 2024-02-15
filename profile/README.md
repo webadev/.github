@@ -2,7 +2,7 @@
 
 ![WEBADEV_banner_LinkedIn_général](https://user-images.githubusercontent.com/15650433/182027022-19242351-dd99-4726-bfe2-9173a413f6b9.jpg)
 
-Webadev, là où la __technologie s'adapte à vos objectifs business__ 💡
+[Webadev](https://www.webadev.com), là où la __technologie s'adapte à vos objectifs business__ 💡
 
 Dans un monde où la technologie évolue à la vitesse de la lumière, notre agence se veut être votre partenaire de confiance, celui qui vous accompagne pour simplifier votre quotidien en développant des outils applicatifs personnalisés à votre entreprise.
 
@@ -17,6 +17,4 @@ Avec un éventail de compétences allant de l'e-commerce aux applications mobile
 
 __Rendez le complexe, simple.__ Nous sommes là pour alléger vos défis quotidiens avec le vrai sur-mesure. 
 
-Une idée ? Discutons-en atour d'un café ☕
-
-💻[Webadev](https://www.webadev.com)
+Une idée ? [Discutons-en atour d'un café](https://www.webadev.com) ☕
