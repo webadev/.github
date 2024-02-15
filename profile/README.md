@@ -14,7 +14,8 @@ Simplifier la vie des entreprises avec des plateformes applicatives qui non seul
 ## Au menu depuis 2004 🌐
 Avec un éventail de compétences allant de l'e-commerce aux applications mobiles, en passant par les CRM et les plateformes d'e-learning, nous apportons notre savoir-faire technique pour simplifier et enrichir le quotidien de nos clients.
 
-𝗥𝗲𝗻𝗱𝗲𝘇 𝗹𝗲 𝗰𝗼𝗺𝗽𝗹𝗲𝘅𝗲, 𝘀𝗶𝗺𝗽𝗹𝗲. Nous sommes là pour alléger vos défis quotidiens avec le vrai sur-mesure. Une idée ? 
-Discutons-en atour d'un café ☕
+𝗥𝗲𝗻𝗱𝗲𝘇 𝗹𝗲 𝗰𝗼𝗺𝗽𝗹𝗲𝘅𝗲, 𝘀𝗶𝗺𝗽𝗹𝗲. Nous sommes là pour alléger vos défis quotidiens avec le vrai sur-mesure. 
+
+Une idée ? Discutons-en atour d'un café ☕
 
 💻[Webadev](https://www.webadev.com)
