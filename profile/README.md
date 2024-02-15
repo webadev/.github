@@ -2,34 +2,18 @@
 
 ![WEBADEV_banner_LinkedIn_général](https://user-images.githubusercontent.com/15650433/182027022-19242351-dd99-4726-bfe2-9173a413f6b9.jpg)
 
-Notre équipe délurée vous accompagne dans votre développement virtuel afin de vous faire rayonner dans le monde réel.  
-Bref, le web ça nous connaît 🚀
+Webadev, là où la technologie s'adapte à vos objectifs business 💡
+Dans un monde où la technologie évolue à la vitesse de la lumière, notre agence se veut être votre partenaire de confiance, celui qui vous accompagne pour simplifier votre quotidien en développant des outils applicatifs personnalisés à votre entreprise.
 
+## We Are Digital 🔃
+Parce que pour nous, chaque projet est une opportunité de repousser les frontières de la technologie et de créer des outils qui ne sont pas seulement fonctionnels, mais qui inspirent et transforment les entreprises.
 
-## 𝗤𝗨𝗜 𝗦𝗢𝗠𝗠𝗘𝗦-𝗡𝗢𝗨𝗦 ?
+## Notre mission ? 🚩
+Simplifier la vie des entreprises avec des plateformes applicatives qui non seulement répondent à vos besoins mais les anticipent, favorisant efficacité, sérénité et réussite. Notre approche est simple : être à votre écoute, comprendre vos objectifs et les dépasser avec créativité.
 
-Notre équipe est composée de plusieurs profils aux talents multiples qui assurent un suivi méticuleux sur tous les projets. Outre le fait que nous sommes des analystes programmeurs, des geeks, des fans de musiques un peu bizarres, d’humour décalé, nous sommes surtout passionnés par notre métier. La WAD attitude coule dans nos veines…
+## Au menu depuis 2004 🌐
+Avec un éventail de compétences allant de l'e-commerce aux applications mobiles, en passant par les CRM et les plateformes d'e-learning, nous apportons notre savoir-faire technique pour simplifier et enrichir le quotidien de nos clients.
 
-## 𝗪𝗔𝗗 ? 𝗤𝗨𝗘𝗦𝗔𝗖𝗢 ?
+𝗥𝗲𝗻𝗱𝗲𝘇 𝗹𝗲 𝗰𝗼𝗺𝗽𝗹𝗲𝘅𝗲, 𝘀𝗶𝗺𝗽𝗹𝗲. Nous sommes là pour alléger vos défis quotidiens avec le vrai sur-mesure. Une idée ? Discutons-en atour d'un café ☕
 
-Notre crédo, notre cri de ralliement, notre philosophie qui motive nos troupes et qui forge notre caractère singulier. Bien ancrée dans notre ADN, la WAD attitude transparait dans chacune de nos réalisations :
-
-✅ We are Developers  
-✅ We are Digital  
-✅ We are Differents  
-✅ WAD = WEBADEV  
-
-## 𝗖𝗢𝗠𝗠𝗘𝗡𝗧 𝗡𝗢𝗨𝗦 𝗙𝗢𝗡𝗖𝗧𝗜𝗢𝗡𝗡𝗢𝗡𝗦 ?
-
-Le sur mesure ! Oui, vous avez bien lu : on vous laisse carte blanche pour élaborer votre solution digitale afin qu’elle soit adaptée à votre image et à vos besoins tout en répondant aux attentes des internautes. Conseil, réflexion, originalité et stratégie sont nos maîtres mots. Nous affirmons notre différence en nous reposant sur notre pertinence, nos convictions et notre intuition.
-
-## 𝗤𝗨𝗘𝗟𝗦 𝗦𝗢𝗡𝗧 𝗡𝗢𝗦 𝗧𝗘𝗥𝗥𝗔𝗜𝗡𝗦 𝗗𝗘 𝗝𝗘𝗨𝗫 𝗙𝗔𝗩𝗢𝗥𝗜𝗦 ?
- 🎯 Création sites web  
- 🎯 E-commerce  
- 🎯 Applications web  
- 🎯 Développement de solutions intranet/extranet  
- 🎯 Identité graphique  
- 🎯 Marketing digital  
- 🎯 Copywriting  
-
-𝗘𝗻𝘃𝗶𝗲 𝗱𝗲 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗲𝗿 𝗮𝘃𝗲𝗰 𝗻𝗼𝘂𝘀 ? 💻[Webadev](https://www.webadev.com)
+💻[Webadev](https://www.webadev.com)
